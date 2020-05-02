@@ -76,7 +76,7 @@
     "whitelistedConfigUrls": [],
     "whitelistedPanelUrls": []
   },
-  "frontendCommand": "",
+  "frontendCommand": "yarn start",
   "frontendFolderName": "ui",
   "name": "soLaki",
   "version": 1
